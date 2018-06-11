@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidLogoQuiz</string>
+    <string name="btn_submit">Submit</string>
+    <string name="todo">TODO</string>
+    <string name="btn_play">Play</string>
+    <string name="tv_welcome_to_logo_quiz">Welcome to Logo Quiz</string>
+    <string name="main_btn_home">Home</string>
+</resources>
